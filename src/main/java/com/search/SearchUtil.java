@@ -1,4 +1,4 @@
-package search;
+package com.search;
 
 import java.util.HashSet;
 import java.util.Map;

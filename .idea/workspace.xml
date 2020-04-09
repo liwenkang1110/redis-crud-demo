@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7195cd-171d-4815-8d19-e780d0c5c714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/redis-crud-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/search/SearchUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/search/SearchUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redis" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -197,6 +194,8 @@
       <workItem from="1585883362256" duration="1267000" />
       <workItem from="1586304176499" duration="7320000" />
       <workItem from="1586314179911" duration="229000" />
+      <workItem from="1586314948204" duration="62000" />
+      <workItem from="1586399127411" duration="187000" />
     </task>
     <servers />
   </component>
@@ -228,10 +227,10 @@
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
     <state x="1036" y="407" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2880.1582@0.0.2880.1582" timestamp="1585827312464" />
-    <state x="1148" y="435" key="FileChooserDialogImpl" timestamp="1585883371412">
+    <state x="1148" y="435" key="FileChooserDialogImpl" timestamp="1586314977332">
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
-    <state x="1148" y="435" key="FileChooserDialogImpl/0.0.2880.1582@0.0.2880.1582" timestamp="1585883371412" />
+    <state x="1148" y="435" key="FileChooserDialogImpl/0.0.2880.1582@0.0.2880.1582" timestamp="1586314977332" />
     <state width="2812" height="479" key="GridCell.Tab.0.bottom" timestamp="1585836819937">
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
@@ -304,10 +303,10 @@
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
     <state x="691" y="235" key="SettingsEditor/0.0.2880.1582@0.0.2880.1582" timestamp="1585811652115" />
-    <state x="965" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1586313306720">
+    <state x="965" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1586399180967">
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
-    <state x="965" y="521" key="com.intellij.ide.util.TipDialog/0.0.2880.1582@0.0.2880.1582" timestamp="1586313306720" />
+    <state x="965" y="521" key="com.intellij.ide.util.TipDialog/0.0.2880.1582@0.0.2880.1582" timestamp="1586399180967" />
     <state x="1036" y="460" key="extract.method.dialog" timestamp="1586312423260">
       <screen x="0" y="0" width="2880" height="1582" />
     </state>
